@@ -1,86 +1,77 @@
 # Alura-Next-Education-One
 ![image](https://github.com/user-attachments/assets/658cd75b-7713-43ae-8c86-39d0c4a4342e)
 
-Repositório para deixar salvo conteúdos estudados e os projetos feitos.
+# Alura-Next-Education-One 2025
 
-# 🚀 Nome do Projeto
+Respositório de estudos
 
-![Status do Projeto](https://img.shields.io/badge/Status-Em%20Desenvolvimento-brightgreen)
-![Licença](https://img.shields.io/badge/License-MIT-blue)
+# 🚀 Curso de Desenvolvimento Full Stack
 
-## 📋 Descrição
+Este repositório contém todos os códigos e projetos desenvolvidos durante o curso de desenvolvimento Full Stack, abrangendo tecnologias front-end e back-end.
 
-Breve descrição do seu projeto aqui. Explique o propósito e os principais objetivos do projeto de forma clara e concisa.
+## 📚 Tecnologias Utilizadas
 
-## ✨ Demonstração
+### Front-end
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML5 - Estruturação de páginas web
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) CSS3 - Estilização e layouts responsivos
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) JavaScript - Programação client-side
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) Bootstrap - Framework CSS para desenvolvimento responsivo
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) TypeScript - Superset JavaScript com tipagem estática
+- ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) Angular - Framework front-end
 
-![Screenshot do Projeto](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?q=80&w=1200&auto=format&fit=crop)
+### Back-end
+- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) Node.js - Runtime JavaScript
+- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) MySQL - Banco de dados relacional
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) Java - Linguagem de programação back-end
 
-## 🛠️ Tecnologias Utilizadas
+## 📂 Estrutura do Repositório
 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+```
+├── frontend/
+│   ├── html-css/         # Projetos e exercícios de HTML e CSS
+│   ├── javascript/       # Códigos JavaScript
+│   ├── bootstrap/        # Projetos utilizando Bootstrap
+│   ├── typescript/       # Códigos TypeScript
+│   └── angular/         # Projetos Angular
+│
+├── backend/
+│   ├── nodejs/          # Aplicações Node.js
+│   ├── java/           # Projetos Java
+│   └── mysql/          # Scripts SQL e modelagem de dados
+│
+└── projetos/           # Projetos integrando múltiplas tecnologias
+```
 
-## 🚀 Como Executar o Projeto
+## 🎯 Objetivos do Curso
+
+- Dominar fundamentos de desenvolvimento web
+- Criar interfaces responsivas e modernas
+- Desenvolver aplicações full stack
+- Trabalhar com bancos de dados
+- Implementar APIs RESTful
+- Aplicar boas práticas de programação
+- Utilizar frameworks modernos
+
+## 💻 Como Usar
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/nome-do-projeto.git
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
 
-2. Navegue até o diretório do projeto:
-```bash
-cd nome-do-projeto
-```
-
-3. Abra o arquivo `index.html` em seu navegador preferido.
-
-## 📦 Estrutura do Projeto
-
-```
-nome-do-projeto/
-├── index.html
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── script.js
-│   └── img/
-├── README.md
-└── LICENSE
-```
-
-## 🎯 Funcionalidades
-
-- [ ] Funcionalidade 1
-- [ ] Funcionalidade 2
-- [ ] Funcionalidade 3
-- [ ] Funcionalidade 4
-
-## 🤝 Como Contribuir
-
-1. Faça um fork do projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Faça commit das suas alterações (`git commit -m 'Add some AmazingFeature'`)
-4. Faça push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
+2. Navegue até a pasta do projeto desejado
+3. Siga as instruções específicas no README de cada projeto
 
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 👨‍💻 Autor
+## 📫 Contato
 
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario)
-
-## 📞 Contato
-
-- Email: seu-email@exemplo.com
 - LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/seu-perfil/)
-- GitHub: [@seu-usuario](https://github.com/seu-usuario)
+- Email: seu.email@exemplo.com
 
 ---
 
-⭐️ Se este projeto te ajudou, considere dar uma estrela!
+⭐ Feito com dedicação durante o curso de desenvolvimento Full Stack.
+
